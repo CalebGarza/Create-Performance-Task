@@ -9,4 +9,4 @@ click a button and visualize the number of certain tasks that need to be done.
 **Why is this project useful?**
 This project is useful because it is a resource to students that need a little extra 
 help with organization and reduces stress by fitting all of their assignments into one
-GUI. This app has the potential to increase students performance in school.
+GUI. This app has the potential to increase students' performance in school.
